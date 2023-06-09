@@ -1,4 +1,4 @@
-package axiom;
+package e-lab-axiom-condensing;
 
 import java.io.BufferedReader;
 import java.util.Scanner;
