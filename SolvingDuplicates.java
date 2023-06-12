@@ -57,7 +57,7 @@ public class SolvingDuplicates {
 		 */
 		
 		//set up filePath as the parent directory and filename
-		String filePath = parentDir + "\\" + fileName;
+		String filePath = parentDir + "/" + fileName;
 		
 		//use FileWriter to add each row from the data array into the new file with data separated by commas
 		try {
