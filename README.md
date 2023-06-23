@@ -13,4 +13,7 @@ The program will take in a .csv from a specified path + the number of rows and c
 3. Open a command line window 
 4. Use the commands `cd <directory>` (move into a directory) and `cd ..` (step out of a directory) to move into the directory that contains the "axiom" folder
 5. `javac axiom/SolvingDuplicates.java` to compile the script.
-6. `java axiom/SolvingDuplicates` to run the script 
+6. `java axiom/SolvingDuplicates` to run the script
+
+## R Code Files
+Analysis of data completed in R. Contains code for alpha diversity, beta diversity, and two versions of a heatmap.
